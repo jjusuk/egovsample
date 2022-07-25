@@ -11,7 +11,7 @@ import egovframework.com.config.EgovWebApplicationInitializer;
 @ServletComponentScan
 @SpringBootApplication
 @Import({EgovWebApplicationInitializer.class})
-public class EgovBootApplication {
+public class EgovBootApplication { 
 	public static void main(String[] args) {
 		System.out.println("##### EgovBootApplication Start #####");
 
