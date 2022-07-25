@@ -12,7 +12,7 @@ import egovframework.com.config.EgovWebApplicationInitializer;
 @SpringBootApplication
 @Import({EgovWebApplicationInitializer.class})
 public class EgovBootApplication { 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.println("##### EgovBootApplication Start #####");
 
 		SpringApplication springApplication = new SpringApplication(EgovBootApplication.class);
