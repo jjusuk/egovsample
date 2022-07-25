@@ -19,7 +19,7 @@
 --%>
 <html>
 <head>
-<title>표준프레임워크 경량환경 홈페이지 템플릿</title>
+<title>표준프레임워크 경량환경 홈페이지 템플릿1</title>
 <script type="text/javaScript">
 	//document.location.href="<c:url value='/cmm/main/mainPage.do'/>"
 </script>
