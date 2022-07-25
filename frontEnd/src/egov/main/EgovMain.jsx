@@ -138,7 +138,7 @@ function EgovMain(props) {
                         <div className="banner">
                             <Link to={URL.SUPPORT_DOWNLOAD} className="bn1">
                                 <strong>자료실</strong>
-                                <span>다양한 자료를<br />다운로드 받으실 수 있습니다.</span>
+                                <span>다양한 자료를<br />다운로드 받으실 수 있습니다..</span>
                             </Link>
                             <Link to={URL.ABOUT} className="bn2">
                                 <strong>표준프레임워크센터</strong>
