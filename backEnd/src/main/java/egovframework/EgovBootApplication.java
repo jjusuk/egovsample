@@ -20,7 +20,7 @@ public class EgovBootApplication {
 		//springApplication.setLogStartupInfo(false);
 		springApplication.run(args);
 
-		System.out.println("##### EgovBootApplication End #####");
+		System.out.println("##### EgovBootApplication End #####"); 
 	}
 
 }
