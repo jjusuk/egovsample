@@ -23,7 +23,7 @@
 <script type="text/javaScript">
 	//document.location.href="<c:url value='/cmm/main/mainPage.do'/>"
 </script>
-</head>
+</head> 
 <body>
 	<h3>경량환경 홈페이지 템플릿 구동 성공</h3>
 	<p>
